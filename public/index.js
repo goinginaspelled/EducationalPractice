@@ -6,7 +6,7 @@ var articleContent = (function(){
 		summary: 'Снова выборы',
 		img: 'https://24smi.org/public/media/2016/10/13/234784647.jpg',
 		createdAt: new Date('2017-04-02T21:29:00'),
-		author: 'CNN',
+		author: 'aspelled',
 		tags:["politics", "USA"],
 		content: 'Ничто не предвещало его победы. Ни на съезде республиканцев, ни на общенациональных выборах. Все расклады политтехнологов, социологов, аналитиков прочили победу Клинтон. А победил Трамп. Легко и уверенно '
 	},
@@ -16,9 +16,9 @@ var articleContent = (function(){
 		summary: 'Британец Колин Ферт подал заявку на гражданство Италии',
 		img: 'http://www.spletnik.ru/img/persons/Colin-Firth-post.jpg',
 		createdAt: new Date('2017-04-02T21:29:00'),
-		author: 'lenta.ru',
+		author: 'Kirios',
 		tags:["celebrities", "Britain"],
-		content:'ританский актер Колин Ферт подал заявку на получение итальянского гражданства из-за процедуры выхода Великобритании из Евросоюза, получившей название Brexit. Об этом пишет Daily Express.Отмечается, что 56-летний артист обеспокоен последствиями Brexit.«Колин подал заявку на двойное гражданство (британское и итальянское), чтобы иметь те же документы, что и его жена с детьми», — заявил представитель артиста. Ферт женат на итальянском продюсере и режиссере Ливии Джуджолли уже 20 лет. У них двое детей.'
+		content:'Британский актер Колин Ферт подал заявку на получение итальянского гражданства из-за процедуры выхода Великобритании из Евросоюза, получившей название Brexit. Об этом пишет Daily Express.Отмечается, что 56-летний артист обеспокоен последствиями Brexit.«Колин подал заявку на двойное гражданство (британское и итальянское), чтобы иметь те же документы, что и его жена с детьми», — заявил представитель артиста. Ферт женат на итальянском продюсере и режиссере Ливии Джуджолли уже 20 лет. У них двое детей.'
 	},
 	{
 		id: '3',
@@ -26,7 +26,7 @@ var articleContent = (function(){
 		summary: 'Tiny Device Allows You To Track Your Vehicle Using Your Smartphone',
 		img: 'http://www.nordicsemi.com/var/ezwebin_site/storage/images/news/press-releases/product-related-news/world-s-smallest-bluetooth-location-stickers-sticknfind-locate-misplaced-items-from-smartphone-app-using-nordic-semiconductor-nrf51822-socs/382397-1-eng-GB/World-s-smallest-Bluetooth-location-stickers-StickNFind-locate-misplaced-items-from-smartphone-app-using-Nordic-Semiconductor-nRF51822-SoCs.jpg',
 		createdAt: new Date('2017-04-02T21:29:00'),
-		author: 'Aspelled',
+		author: 'aspelled',
 		tags:["creatorCollumn", "tech"],
 		content:'Have you ever lost your car on a parking lot? It happens. You park and go shopping. When you get back, you dont have a clue where your car is. Then you start roaming around clicking on the panic button on your car keys so the alarm goes off. It can be frustrating, especially on a hot, sunny day.No, you dont need to install an expensive GPS system to keep track of your car. Thats way too expensive. You would need to pay a monthly subscription fee just to use it. Dont we have enough bills to pay already? But is there a way to track your vehicle without spending a fortune? Yes, now there is! A California-based startup company was able to make this a reality. They created a tiny device that works with your smartphone, and it could be exactly what youre looking for!'
 	},
@@ -36,7 +36,7 @@ var articleContent = (function(){
 		summary: 'В Нью-Йорке появится тематический бар Breaking Bad',
 		img: 'http://www.espanarusa.com/files/autoupload/14/45/69/mhij5hle384966.jpg',
 		createdAt: new Date('2017-04-02T21:29:00'),
-		author: 'usa.one',
+		author: 'bigbaddev',
 		tags:["USA", "events"],
 		content:'Это, конечно, не лаборатория по производству метамфетамина, но это нечто лучшее. В июле в Нью-Йорке откроется временный коктейль-бар в тематике Breaking Bad. Бар буквально приедет в город, так как будет распологаться в автофургоне.'
 	},
@@ -46,7 +46,7 @@ var articleContent = (function(){
 		summary: 'Жители Донбасса сдали по телефону ЛНР роту артиллеристов из ВСУ',
 		img: 'http://ipolk.ru/uploads/topics/preview/00/02/83/40/f362b733df.jpg',
 		createdAt: new Date('2017-04-02T21:29:00'),
-		author: 'nation-news.ru',
+		author: 'Kirios',
 		tags:["Ukraine", "breakingNews"],
 		content:'Американские и австралийские астрофизики обнаружили кандидата в черные дыры средней массы. Такое название они получили потому, что тяжелее обычных — то есть формирующихся в результате гравитационного коллапса звезд — объектов, но легче сверхмассивных черных дыр, как правило расположенных в активных ядрах крупных галактик. Происхождение необычных объектов до сих пор остается неясным. «Лента.ру» рассказывает о черных дырах промежуточных масс и об открытии ученых.'
 	},
@@ -56,7 +56,7 @@ var articleContent = (function(){
 		summary: 'Лужков рассказал о своем опыте сноса пятиэтажек без акций протеста',
 		img: 'https://pribalt.info/abc_lv/images/luzkov.jpg',
 		createdAt: new Date('2017-04-02T21:29:00'),
-		author: 'rbk.ru',
+		author: 'Kirios',
 		tags:["Russian", "oldfag"],
 		content:'Выступая с лекцией в Пушкинском доме в Лондоне, Лужков высказал свое мнение по поводу дискуссии по сносу пятиэтажек в Москве, сообщает издание Russian Gap. По его словам, за время работы на посту столичного мэра в городе снесли 12 млн кв. м пятиэтажек из 20 млн и не было ни одного протеста. Экс-градоначальник объяснил это тем, что властям удалось взять на себя всю социальную сферу и заинтересовать строителей. «Мы сказали строителям: «Сносите пятиэтажки и в этом же месте переселяйте семьи». Квартира на квартиру в этом же месте, без каких-либо доплат, потому что там живут бедные люди. И ни у кого возражений не было», — сказал Лужков.' 
 	},
@@ -66,7 +66,7 @@ var articleContent = (function(){
 		summary: 'Корреспондент Российской Газеты прыгнула в ущелье и зовет за собой туристов',
 		img: 'https://i.ytimg.com/vi/8KR57tzFUqI/maxresdefault.jpg',
 		createdAt: new Date('2017-04-02T21:29:00'),
-		author: 'rg.ru',
+		author: 'aspelled',
 		tags:["Russia", "tourism"],
 		content:'Есть в Сочи и другие точки притяжения экстремалов. Так, в горах олимпийской столицы недавно появился новый вид развлечений - полеты на тандемном параплане с инструктором. Стоит такое удовольствие от 7500 до 15 тысяч рублей. Гостям предлагается два маршрута с разным перепадом высот. В первом случае полет вдоль склонов и отрогов горы Аибга длится не более 20 минут с перепадом высот до 1400 метров. Пока летишь, можно хорошенько рассмотреть горные водопады и горнолыжные трассы курорта. Второй маршрут рассчитан на полчаса и проходит возле горных цирков, с видом на Красную Поляну и перепадом высот до 1800 метров.' 
 	},
@@ -76,7 +76,7 @@ var articleContent = (function(){
 		summary: 'Ученые рассказали, что случится на Земле в ближайший миллиард лет',
 		img: 'https://img-fotki.yandex.ru/get/41743/137106206.76e/0_1f854a_dbb22ea5_orig',
 		createdAt: new Date('2017-04-02T21:29:00'),
-		author: 'vesti.ru',
+		author: 'aspelled',
 		tags:["Earth", "science"],
 		content:'По мнению ученых, через восемь тысяч лет человечество столкнется с компьютерной проблемой Y10k, названной так по аналогии с проблемой Y2k, опасения в связи с которой были широко распространены в преддверии наступления 2000 года. Проблемы будут связаны с тем, что компьютерам придется перейти с четырехзначной записи дат на пятизначную, сообщает Daily Mail.' 
 	},
@@ -86,7 +86,7 @@ var articleContent = (function(){
 		summary: 'Белорусы выбирают Путина',
 		img: 'https://i.ytimg.com/vi/XOZoVdKtEB0/maxresdefault.jpg',
 		createdAt: new Date('2017-04-02T21:29:00'),
-		author: 'gazeta.ru',
+		author: 'biddbaddev',
 		tags:["Russia", "Belarus"],
 		content:'Две трети белорусов положительно относятся к Владимиру Путину, тогда как только 10% граждан страны-соседки его не любят. При этом Александр Лукашенко по рейтингам в разы отстает от президента России. В свою очередь, среди граждан России популярность Лукашенко очень высока — многие граждане РФ были бы не против увидеть его своим кандидатом в президенты.' 
 	},
@@ -96,7 +96,7 @@ var articleContent = (function(){
 		summary: 'Какая ошибка помешала фашистам сбросить ядерную бомбу на СССР',
 		img: 'http://img11.nnm.me/6/4/a/3/5/956bda8b0c6401d32c5b07f654f.jpg',
 		createdAt: new Date('2017-04-02T21:29:00'),
-		author: 'eg.ru',
+		author: 'aspelled',
 		tags:["history", "naziGermany", "weapon"],
 		content:'К концу Второй мировой войны Третий рейх подошел к созданию ядерного оружия намного ближе, чем принято считать. Немцы имели не только теоретические, но и вполне конкретные практические наработки в этой сфере.' 
 	},
@@ -440,7 +440,7 @@ var articleRenderer = ( function(){
 		template.content.querySelector('#article-publname').textContent = article.author;
 		template.content.querySelector('#article-date').textContent = formatDate(article.createdAt);
 		var tags = template.content.querySelector('.article-tags');
-		tags.innerHTML = 'ТЭГИ: ';
+		tags.innerHTML = 'Tags: ';
 		
 		if(Boolean(article.tags)){
 			for(i = 0; i < article.tags.length; i++){
@@ -508,7 +508,7 @@ var userLog = ( function(){
 		if(Boolean(user)){
 			document.querySelector('#aAdd').textContent = 'Add';
 			document.querySelector('.log-info').style.fontSize = '50%';
-			document.querySelector('.log-info').innerHTML = 'Профиль<br/><div id="username">' + user + '</div>';
+			document.querySelector('.log-info').innerHTML = 'Profile<br/><div id="username">' + user + '</div>';
 		}
 		else{
 			document.querySelector('#aAdd').textContent = '';
